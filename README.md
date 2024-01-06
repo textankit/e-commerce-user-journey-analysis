@@ -1,3 +1,6 @@
+**NAME**: **ANKIT KUMAR**
+**id: 2020A4PS1995H**
+
 **Title: E-commerce User Journey Analysis Project**
 
 **Objective:**
